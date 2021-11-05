@@ -1,5 +1,3 @@
-# AI-Updates
-
 # Imagenet papers summarized
 
 **CoAtNet: Marrying Convolution and Attention for All Data Sizes | 2021**
